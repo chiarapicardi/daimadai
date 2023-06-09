@@ -2,6 +2,14 @@ nav ul li{
     display: inline-block
 } 
 
+@-ms-viewport{
+    width: device-width;
+  }
+
+nav{
+    word-spacing: 0.7em;
+}
+
 h1{
     background-color: yellow;
     padding-top: 1%;
